@@ -1,15 +1,7 @@
 ## How to Run
-
-1. **Option A – Pre-built executable**  
-
-Grab the latest release from the Releases page.
-Run the downloaded .exe; it will drop Main-patched.ahk next to it.
-This creates a new file called Main-patched.ahk in the same directory.
-
-2. **Option B – Python script**  
-   ```bash
-   python patcher.py
-   ```
+```bash
+python patcher.py
+```
    
 This creates a new file called Main-patched.ahk in the same directory.
 
